@@ -1,0 +1,92 @@
+typography_spectrum: 0.17068818700499833
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.5518565240781754
+  lightness: 0.8910152311436832
+  saturation: 0.9984654146246612
+  rhythmicContrast: 0.4584089240524918
+layout_spectrum: 0.3803832440171391
+name: AlphasSil
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: alphasnet
+    url: 'https://alphasnet@wordpress.com'
+    type: external
+title: Greatnet
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1daf9834-4ceb-4289-bc7c-886f9340bb8b.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1daf9834-4ceb-4289-bc7c-886f9340bb8b.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03fb2ccd-8774-44f1-9452-f9eedf1d319a.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/03fb2ccd-8774-44f1-9452-f9eedf1d319a.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'This website is managed and designed by Sir. Silas Ugwu '
+github: true
+url: 'https://www.greatnet.link/'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/27c95d0d-b838-4911-88f7-ac14592f2d18.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ab0976a-40ca-4e55-ab5f-5c910949429d.png
+author:
+  name: Sir. Silas Ugwu
+  email: messageusonow@gmail.com
+  url: 'http://www.greatnet.link'
+opengraph:
+  appId: '121909758503015'
+  type: web
+analytics:
+  facebook: 'https://facebook.com/events_manager/?act=346584922189893'
+  google: UA-108116638-1
